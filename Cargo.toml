@@ -3,4 +3,7 @@ name = "sstv"
 version = "0.1.0"
 authors = ["connorwalsh <c@polygon.pizza>"]
 
+[lib]
+path = "src/lib.rs"
+
 [dependencies]

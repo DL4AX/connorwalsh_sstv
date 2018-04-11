@@ -1,3 +1,7 @@
+extern crate sstv;
+
+use sstv::encode;
+
 fn main() {
-    println!("Hello, world!");
+    encode::read_img()
 }
