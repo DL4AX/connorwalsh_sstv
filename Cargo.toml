@@ -7,3 +7,4 @@ authors = ["connorwalsh <c@polygon.pizza>"]
 path = "src/lib.rs"
 
 [dependencies]
+image = "0.18.0"
